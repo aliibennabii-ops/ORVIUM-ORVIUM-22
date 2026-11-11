@@ -1,0 +1,6 @@
+{
+  "name": "ORVIUM — AI Automation Engineering Agency",
+  "description": "We automate. You grow. Premium AI automation engineering agency designing intelligent automation systems, AI agents, and connected business workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
